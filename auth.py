@@ -1,5 +1,4 @@
 import hashlib, requests, os, time
-from colorama import Fore, init
 init()
 
 #for clearing the console after the hwid check
